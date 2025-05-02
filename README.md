@@ -67,42 +67,37 @@ e.	Select M0 & Your Region & Create Database
 
 
 
-f.	Setup Username & Password & Create User
-
-![image](https://github.com/user-attachments/assets/d545b087-b7be-4762-a010-19ba86c695af)
-
-
 Note: Do not use ‘@’ symbol in the password
 
-g.	Now Click on Finish & Close
+f.	Now Click on Finish & Close
 
 ![image](https://github.com/user-attachments/assets/88440538-a7fc-4667-97f5-8ddf9c4a0a8f)
 
  
 
 
-h.	Whitelist IP 0.0.0.0 & Click on Add Entry
+g.	Whitelist IP 0.0.0.0 & Click on Add Entry
 
 ![image](https://github.com/user-attachments/assets/54f45b2b-8319-406e-9026-0c876cb313dd)
 
 
 
-i.	Now Click on Connect
+h.	Now Click on Connect
 
 ![image](https://github.com/user-attachments/assets/c6589f2d-5c50-46f1-9040-3237246a0be1)
 
 
-j.	Now Select Compass Option
+i.	Now Select Compass Option
 
 ![image](https://github.com/user-attachments/assets/c56878ac-103e-4ac8-8603-63a3a27f1698)
 
 
-k.	And Copy the Connection String
+j.	And Copy the Connection String
 
 ![image](https://github.com/user-attachments/assets/4603ba19-bafe-4e0e-8da5-8cbc45ae7569)
 
  
-l.	And Paste It in db.js replace password with password you set previously in 4.F & save changes
+k.	And Paste It in db.js replace password with password you set previously in 4.F & save changes
 
 ![image](https://github.com/user-attachments/assets/b57a531b-97bd-40ec-bb81-6694794f5c0f)
 
