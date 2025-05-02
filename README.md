@@ -94,7 +94,7 @@ i.	Now Select Compass Option
 
 j.	And Copy the Connection String
 
-![image](https://github.com/user-attachments/assets/4603ba19-bafe-4e0e-8da5-8cbc45ae7569)
+
 
  
 k.	And Paste It in db.js replace password with password you set previously in 4.F & save changes
